@@ -41,15 +41,15 @@ custom_gradle_template: false
 
 ### The following properties are constant for most projects
 
-main_site_url: https://spring.io
-projects_site_url: https://projects.spring.io
+main_site_url: https://springdev.io
+projects_site_url: https://projects.springdev.io
 questions_url: https://spring.io/questions
 
 # Project Twitter URL
 twitter: SpringRoo
 
 # Project Open Graph
-url: http://projects.spring.io/spring-roo
+url: https://projects.springdev.io/spring-roo
 title: Spring Roo Project
 description: A next-generation rapid application development tool for Java developers. With Roo you can easily build full Java applications in minutes.
 default_bg: default_bg.png
